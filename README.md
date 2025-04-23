@@ -11,8 +11,8 @@ I also actively write about data science on Medium, sharing insights, learnings,
 A curated selection of these projects is highlighted in the Notable Projects section.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afnanurrahim-ansari) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@afnanurrahim) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afnanurrahim-ansari) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@afnanurrahim) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afnanurrahim@gmail.com)
 [![Research Paper](https://img.shields.io/badge/Research_Paper-lightblue)](http://dx.doi.org/10.1201/9781003559092-54)
 
